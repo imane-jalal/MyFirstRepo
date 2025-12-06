@@ -1,1 +1,2 @@
+What I have learned from this course:
 I’ve learned how to use Git commands to manage repositories, commit changes, and push updates to GitHub.
